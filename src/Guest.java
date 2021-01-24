@@ -9,6 +9,7 @@ public class Guest {
         public String address;
         public int plus;
         public static int tCount;
+        public int test;
 
 
         public Guest (String firstName,String lastName, String email, String phoneNumber ) {
